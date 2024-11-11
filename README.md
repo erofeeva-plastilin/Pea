@@ -31,3 +31,32 @@ export NEW_GENOME="/mnt/users/erofeevan/Plant_culture/Pea/Pisum_sativum_v1a.fa"
 export INPUT_FILE="/mnt2/results/20241017_GBS_sunflower/call_all/Pea/Pea_short_filt_maf0.01_max-missing0.95.recode.vcf"
 export OUTPUT_FILE="/mnt2/results/20241017_GBS_sunflower/call_all/Pea/Pea_filt_short_Psat_ZW6_1.0.vcf"
 ```
+```
+SNPLift: Extract features from alignments
+
+SNPLift: Skipping visualization
+
+SNPLift: Score markers based on extracted features
+
+SNPLift: Getting coordinates of transferable SNPs
+
+SNPLift: Writing output file with updated coordinates
+
+SNPLift: Number of SNPs treated at each step
+
+69840   Positions
+69840   Scores
+69281   Transferable
+
+SNPLift: Percentage of transferred SNPs:
+
+99.1995%
+
+SNPLift: Run completed
+
+End: 20241111_085854
+
+real    2m30.087s
+user    1m24.746s
+sys     0m56.770s
+```
